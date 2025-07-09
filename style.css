@@ -8,8 +8,8 @@ html, body{
   background-color:#303030;
 }
 
-button:hover,button:active {
-  filter: invert(1);
+button:active {
+  filter: brightness(0.5);
 }
 
 button {
